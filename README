@@ -1,0 +1,9 @@
+## Install dependencies
+npm install
+
+## Run tests to check if the answer is correct
+npm test
+
+## Task
+The app.js renders Logo component three times. The logo is imported but does't exist. Create the logo component to show the view illustrated in the screen.png image.
+
